@@ -1,3 +1,7 @@
+## ApeWare Changes
+
+This version has changes and additions in order to facilitate my personal Laravel Homestead setup so I can pull and install oh-my-zsh when I provision my virtual machine. It adds my personal alias' and theme to the zsh install. 
+
 ![Oh My Zsh](https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png)
 
 
