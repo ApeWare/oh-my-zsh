@@ -80,7 +80,7 @@ source $ZSH/oh-my-zsh.sh
 # For a full list of active aliases, run `alias`.
 #
 # Example aliases
-. ~/.aliases
+. ~/aliases
 alias project-init='composer install;php artisan local:init;bundle install;npm install;gulp compile'
 alias t='vendor/bin/codecept run'
 # alias zshconfig="mate ~/.zshrc"
