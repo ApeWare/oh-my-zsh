@@ -1,4 +1,3 @@
-@@ -0,0 +1,35 @@
 # ApeWare Theme
 # combines the best of Bira and
 # Steve Losh's (http://stevelosh.com/blog/2010/02/my-extravagant-zsh-prompt/) 
